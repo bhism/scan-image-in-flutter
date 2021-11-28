@@ -42,7 +42,6 @@ dependencies:
   url_launcher: ^6.0.12
   intl: ^0.17.0
   opencv_4: ^1.0.0
-  image_gallery_saver: '^1.7.1'
 
 
 dev_dependencies:
